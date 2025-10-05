@@ -29,7 +29,7 @@ A powerful Python-based Twitter automation tool with multithreading support and 
 - (Optional) Proxies for account management
 
 ## 🔧 Installation
-1. Clone the repository:
+1. Clone the repository
 ```bash
 git clone https://github.com/0xStarLabs/StarLabs-Twitter
 cd StarLabs-Twitter
