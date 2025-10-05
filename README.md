@@ -26,7 +26,7 @@ A powerful Python-based Twitter automation tool with multithreading support and 
 - Python 3.11.6 or higher
 - Excel file with Twitter accounts
 - Valid Twitter authentication tokens
-- (Optional) Proxies for account management
+- (Optional) Proxies for account managemen
 
 ## 🔧 Installation
 1. Clone the repository
